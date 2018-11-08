@@ -1,0 +1,10 @@
+node_modules/
+build/
+dist/
+prod/
+.DS_Store
+.idea/
+env.js
+package-lock.json
+.nyc_output
+/test
