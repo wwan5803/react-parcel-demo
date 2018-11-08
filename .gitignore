@@ -6,5 +6,5 @@ prod/
 .idea/
 env.js
 package-lock.json
-.nyc_output
+.cache
 /test
